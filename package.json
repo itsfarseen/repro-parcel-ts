@@ -1,0 +1,14 @@
+{
+  "name": "repro-parcel-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "demo": "yarn parcel index.html",
+    "build": "yarn tsc"
+  },
+  "dependencies": {
+    "parcel": "^2.3.2",
+    "typescript": "^4.6.2"
+  }
+}
