@@ -1,3 +1,11 @@
+# Files
+
+`lib.ts`, `foo.ts` - Library I'm planning to package as ESM.
+
+`dist` - Generated JS file by TSC.
+
+`index.html`, `index.ts` - Code that demoes the library.
+
 # How to run
 
 `yarn tsc` -- works
